@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+joblib
+pandas
+numpy
+pdfplumber
+python-docx
+pytesseract
+underthesea
+python-multipart
+docx2txt
+pywin32
