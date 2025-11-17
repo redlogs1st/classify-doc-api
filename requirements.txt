@@ -11,3 +11,4 @@ pytesseract
 underthesea
 python-multipart
 docx2txt
+sqlalchemy
