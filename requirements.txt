@@ -11,4 +11,3 @@ pytesseract
 underthesea
 python-multipart
 docx2txt
-pywin32
